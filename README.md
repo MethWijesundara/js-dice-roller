@@ -20,5 +20,5 @@ The program generates random values using JavaScript and displays the results on
 This project was built to practice DOM manipulation, loops, and random number generation in JavaScript. 
 
 ## Preview 
-
+https://github.com/user-attachments/assets/2498d058-f067-44b0-819d-13d19ef86c9e
 --- 
